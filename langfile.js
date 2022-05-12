@@ -26,8 +26,8 @@ chatLangCallback({
     "S_SUBJECT_LABEL": "Subject",
     "S_CONTENT_LABEL": "Content",
     "S_SEND_EMAIL_BUTTON": "Send Email",
-    "S_SEND_BUTTON": "Send Survey",
-    "S_COMMENTS_LABEL": "Additional comments"
+    "S_SEND_BUTTON": "Send Survey French",
+    "S_COMMENTS_LABEL": "Additional Comments French"
   },
   "S_CONNECTING_PAGE": {
     "S_CONTENT": "Please wait while we connect you to our online support agent."
