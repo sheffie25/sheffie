@@ -18,10 +18,9 @@ chatLangCallback({
     "S_CONTENT": "Initiating email..."
   },
   "S_INFORMATION_PAGE": {
-    "S_PROFILE_LABEL": "Profile",
-    "S_TITLE": "Efren Pilapil",
-    "S_NAME_LABEL": "Name",
-    "S_EMAIL_LABEL": "Email",
+    "S_PROFILE_LABEL": "PROFILE",
+    "S_NAME_LABEL": "NAMEYWA",
+    "S_EMAIL_LABEL": "EMAILOO",
     "S_QUESTION_LABEL": "Question",
     "S_START_BUTTON": "Start Chat",
     "S_SUBJECT_LABEL": "Subject",
