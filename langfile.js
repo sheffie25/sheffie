@@ -19,7 +19,7 @@ chatLangCallback({
   },
   "S_INFORMATION_PAGE": {
     "S_PROFILE_LABEL": "Profile",
-    "S_title": "Efren Pilapil",
+    "S_TITLE": "Efren Pilapil",
     "S_NAME_LABEL": "Name",
     "S_EMAIL_LABEL": "Email",
     "S_QUESTION_LABEL": "Question",
