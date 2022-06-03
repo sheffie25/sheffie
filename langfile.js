@@ -7,7 +7,7 @@
 // eslint-disable-next-line no-undef
 chatLangCallback({
   "APPLICATION_TYPE": "ChatConsole",
-  "S_PAGE_TITLE": "Chat",
+  "S_PAGE_TITLE": "Chateroo",
   "S_CLOSE": "Close",
   "S_PROVIDER": "<span class='provider-text'>Provided by <span class='provider-five'>Five</span><span class='provider-nine'>9</span></span>",
   "S_NO_NAME": "Me",
